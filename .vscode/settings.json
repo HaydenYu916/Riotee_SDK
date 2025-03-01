@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "G:/Downloads/Riotee_SDK-main/external/freertos",
+    "files.associations": {
+        "printf.h": "c",
+        "riotee_timing.h": "c"
+    }
+}
